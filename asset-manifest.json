@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Taskify-React/static/css/main.115a60ee.chunk.css",
+    "main.js": "/Taskify-React/static/js/main.f2bae1a5.chunk.js",
+    "main.js.map": "/Taskify-React/static/js/main.f2bae1a5.chunk.js.map",
+    "runtime-main.js": "/Taskify-React/static/js/runtime-main.93679237.js",
+    "runtime-main.js.map": "/Taskify-React/static/js/runtime-main.93679237.js.map",
+    "static/js/2.682084f4.chunk.js": "/Taskify-React/static/js/2.682084f4.chunk.js",
+    "static/js/2.682084f4.chunk.js.map": "/Taskify-React/static/js/2.682084f4.chunk.js.map",
+    "static/js/3.6e5225f6.chunk.js": "/Taskify-React/static/js/3.6e5225f6.chunk.js",
+    "static/js/3.6e5225f6.chunk.js.map": "/Taskify-React/static/js/3.6e5225f6.chunk.js.map",
+    "index.html": "/Taskify-React/index.html",
+    "static/css/main.115a60ee.chunk.css.map": "/Taskify-React/static/css/main.115a60ee.chunk.css.map",
+    "static/js/2.682084f4.chunk.js.LICENSE.txt": "/Taskify-React/static/js/2.682084f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93679237.js",
+    "static/js/2.682084f4.chunk.js",
+    "static/css/main.115a60ee.chunk.css",
+    "static/js/main.f2bae1a5.chunk.js"
+  ]
+}
